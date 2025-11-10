@@ -1,0 +1,198 @@
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+D:\projects\ThunderRegistor\sch\adc.erc:
+
+ERC Report Options:
+-------------------
+
+Single Node Nets:   On
+No Node Nets:       On
+Electrical Rules:        On
+Unconnected Pins:        On
+Unconnected Wires:       On
+Bus/Net Rules:           On
+Component Rules:         On
+Net Connectivity Rules:  On
+Hierarchy Rules:         On
+
+ERC Errors:
+-----------
+
+
+SINGLE NODE NETS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+NO NODE NETS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+ELECTRICAL RULES:
+
+Warning 1 -- Net NET00004 has no input pins
+Warning 2 -- Net NET00004 has no output pins
+Warning 3 -- Net NET00002 has no input pins
+Warning 4 -- Net NET00002 has no output pins
+Warning 5 -- Net GND has no input pins
+Warning 6 -- Net GND has no output pins
+Warning 7 -- Net NET00003 has no input pins
+Warning 8 -- Net NET00003 has no output pins
+Warning 9 -- Net NET00005 has no input pins
+Warning 10 -- Net NET00005 has no output pins
+
+10 warning(s) detected.
+0 error(s) detected.
+
+UNCONNECTED PINS:
+
+Warning 11 -- Unconnected pin R2-2 on sheet:Sheet1 at mils (2100.0,3200.0)
+Warning 12 -- Unconnected pin U4-1 on sheet:Sheet1 at mils (1300.0,4100.0)
+Warning 13 -- Unconnected pin U4-2 on sheet:Sheet1 at mils (1300.0,3700.0)
+Warning 14 -- Unconnected pin U1-13 on sheet:Sheet1 at mils (6700.0,6000.0)
+Warning 15 -- Unconnected pin U1-10 on sheet:Sheet1 at mils (6700.0,5400.0)
+Warning 16 -- Unconnected pin U1-7 on sheet:Sheet1 at mils (6700.0,4800.0)
+Warning 17 -- Unconnected pin U1-4 on sheet:Sheet1 at mils (6700.0,4200.0)
+Warning 18 -- Unconnected pin U1-1 on sheet:Sheet1 at mils (6700.0,3600.0)
+Warning 19 -- Unconnected pin U1-15 on sheet:Sheet1 at mils (5000.0,6200.0)
+
+----------------------------------------------------------------------
+
+31-Jul-22  08:43                                            Page    1
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Warning 20 -- Unconnected pin U1-24 on sheet:Sheet1 at mils (5000.0,4400.0)
+Warning 21 -- Unconnected pin U1-11 on sheet:Sheet1 at mils (6700.0,5600.0)
+Warning 22 -- Unconnected pin U1-12 on sheet:Sheet1 at mils (6700.0,5800.0)
+Warning 23 -- Unconnected pin U1-14 on sheet:Sheet1 at mils (6700.0,6200.0)
+Warning 24 -- Unconnected pin U1-5 on sheet:Sheet1 at mils (6700.0,4400.0)
+Warning 25 -- Unconnected pin U1-6 on sheet:Sheet1 at mils (6700.0,4600.0)
+Warning 26 -- Unconnected pin U1-8 on sheet:Sheet1 at mils (6700.0,5000.0)
+Warning 27 -- Unconnected pin U1-9 on sheet:Sheet1 at mils (6700.0,5200.0)
+Warning 28 -- Unconnected pin U1-2 on sheet:Sheet1 at mils (6700.0,3800.0)
+Warning 29 -- Unconnected pin U1-3 on sheet:Sheet1 at mils (6700.0,4000.0)
+Warning 30 -- Unconnected pin U1-17 on sheet:Sheet1 at mils (5000.0,5800.0)
+Warning 31 -- Unconnected pin U1-16 on sheet:Sheet1 at mils (5000.0,6000.0)
+Warning 32 -- Unconnected pin U1-23 on sheet:Sheet1 at mils (5000.0,4600.0)
+Warning 33 -- Unconnected pin U1-22 on sheet:Sheet1 at mils (5000.0,4800.0)
+Warning 34 -- Unconnected pin U1-20 on sheet:Sheet1 at mils (5000.0,5200.0)
+Warning 35 -- Unconnected pin U1-28 on sheet:Sheet1 at mils (5000.0,3600.0)
+Warning 36 -- Unconnected pin U1-19 on sheet:Sheet1 at mils (5000.0,5400.0)
+
+26 warning(s) detected.
+0 error(s) detected.
+
+UNCONNECTED WIRES:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+BUS/NET RULES:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+COMPONENT RULES:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+NET CONNECTIVITY RULES:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+HIERARCHY RULES:
+
+
+Hierarchy is simple.
+Hierarchy is resolved.
+
+0 warning(s) detected.
+0 error(s) detected.
+
+ERC Summary:
+------------
+
+
+----------------------------------------------------------------------
+
+31-Jul-22  08:43                                            Page    2
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Single Node:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+No Node:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Electrical:
+	Errors:         0
+	Warnings:       10
+	Ignored Errors: 0
+Unconnected Pin:
+	Errors:         0
+	Warnings:       26
+	Ignored Errors: 0
+Unconnected Wire:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Bus/Net:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Component:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Net Connectivity:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Hierarchy:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+31-Jul-22  08:43                                            Page    3
+
