@@ -7,10 +7,4 @@ title: WEB админ-панель
 
 ![](./web-admin-panel.png){width=3334px height=1762px}
 
----
-
-## Интерфейс
-
-### 
-
 ### 
